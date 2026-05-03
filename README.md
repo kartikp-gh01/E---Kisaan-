@@ -1,8 +1,9 @@
-https://kartikp-gh01.github.io/E---Kisaan-/
-
 # E-Kisaan 🌾
 
 E-Kisaan is a web application that connects farmers directly with consumers, allowing them to buy fresh agricultural products without middlemen.
+
+#Live demo
+https://kartikp-gh01.github.io/E---Kisaan-/
 
 ## 🚀 Features
 - Direct farmer-to-consumer marketplace
